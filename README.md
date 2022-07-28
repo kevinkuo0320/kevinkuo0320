@@ -1,6 +1,9 @@
 ## I'm a CS Junior @ NUS School of Computing 
 
-### Skills:
+> ### Skills:
+- solidity smart contract development
+- dApp development
+- web development
 
 <br />
 <br />
@@ -14,7 +17,7 @@
 <br />
 <br />
 
-### Connect with me:
+> ### Connect with me:
 
 [<img align="left" alt="kevinkuo | LinkedIn" width="30px" src="public\linkedin.png" />][linkedin]
 [<img align="left" alt="kevinkuo | Email" width="30px" src="public\email.png" />][email]
@@ -25,6 +28,6 @@
 
 > ### Latest Blog Posts
 
-[facebook]: https://www.facebook.com/TimYoung97
-[email]: mailto:e0518553@u.nus.edu
+[facebook]: https://www.facebook.com/kevin.kuo.0320
+[email]: mailto:kevinkuo0320@gmail.com
 [linkedin]: https://www.linkedin.com/in/kevinkuochunyuan
