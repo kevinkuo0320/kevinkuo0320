@@ -48,8 +48,9 @@
 <br />
 
 <p align="center">
-	<a>><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-" alt="Gmail"/></a>
+    <a href=""><img img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/></a>
+    <a href="mailto:kevinkuo0320@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+    " alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/kevinkuochunyuan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 " alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/kevin.kuo.0320"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
